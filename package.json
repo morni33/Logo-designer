@@ -1,0 +1,21 @@
+{
+    "name": "svg-logo-generator",
+    "version": "1.0.0",
+    "description": "A command-line SVG logo generator",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.6"
+    },
+    "devDependencies": {
+        "@types/jest": "^27.0.3",
+        "jest": "^27.4.3"
+    },
+    "jest": {
+        "testEnvironment": "node"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
